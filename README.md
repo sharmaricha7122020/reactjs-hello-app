@@ -8,14 +8,18 @@ React Js Hello App
 2) React Js Package Installed
 
 ### Nodejs
+```xml
 https://nodejs.org/en/download/
 node --version
 v16.13.2
+```
 
 ### React Js Package Installed
+```xml
 npx create-react-app my-app
 cd my-app
 npm start (Run your app)
+```
 
 ## Git Code Push
 
