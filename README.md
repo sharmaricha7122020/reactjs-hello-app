@@ -4,6 +4,20 @@ React Js Hello App
 ![](https://github.com/sharmaricha7122020/reactjs-hello-app/blob/main/images/localhost.jpeg)
 
 ## Requirements
+1) Nodejs
+2) React Js Package Installed
+
+### Nodejs
+https://nodejs.org/en/download/
+node --version
+v16.13.2
+
+### React Js Package Installed
+npx create-react-app my-app
+cd my-app
+npm start (Run your app)
+
+## Git Code Push
 
 ```xml
 1) Git Install
